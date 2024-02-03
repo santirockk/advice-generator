@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: Manrope, sans-serif;
+}
+
+@layer utilities {
+    .w-c {
+        width: 343px;
+    }
+    .mt-c {
+        margin-top: 120px;
+    }
+    .rounded-c {
+        border-radius: 9px;
+    }
+
+
+    .tracking-t {
+        letter-spacing: 3.65px;
+    }
+    .text-t {
+        font-size: 11px;
+    }
+    .mb-t{
+        margin-bottom: 23px;
+    }
+
+
+    .text-adv {
+        font-size: 23.5px;
+    }
+    .w-adv {
+        width: 300px;
+    }
+    .tracking-adv {
+        letter-spacing: 0.29px;
+    }
+    .leading-adv {
+        line-height: 33px;
+    }
+    .mb-adv {
+        margin-bottom: 23px;
+    }
+
+
+    .b-btn {
+        bottom: -32px;
+    }
+    .r-btn {
+        right: 1px;
+    }
+
+    .shadow-btn {
+        box-shadow:  0px 0px 37px 3px rgba(81,255,168,0.70);;
+    }
+
+
+/* MD */
+
+
+    .w-c1 {
+        width: 540px;
+    }
+    .mt-c1 {
+        margin-top: 223px;
+    }
+    .rounded-c1 {
+        border-radius: 15px;
+    }
+    .pt-c1 {
+        padding-top: 48px;
+    }
+
+
+    .text-t1 {
+        font-size: 13.01px;
+    }
+    .tracking-t1 {
+        letter-spacing: 4.3px;
+    }
+    .pl-t1 {
+        padding-left: 3px;
+    }
+    .mb-t1{
+        margin-bottom: 22px;
+    }
+
+
+    .text-adv1 {
+        font-size: 28px;
+    }
+
+    .w-adv1 {
+        width: 450px;
+    }
+
+    .tracking-adv1 {
+        letter-spacing: -0.1px;
+    }
+
+    .leading-adv1 {
+        line-height: 38px;
+    }
+
+    .mb-adv1 {
+        margin-bottom: 40px;
+    }
+
+    .mb-img {
+        margin-bottom: 8px;
+    }
+
+    .r-btn1 {
+        right: 0px;
+    }
+
+
+
+}
