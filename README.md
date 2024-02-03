@@ -54,7 +54,7 @@ I want to try other JS libraries like Svelte
 
 ### Useful resources
 
-- [Tailwind Tutorail for Beginners - Youtube](https://youtu.be/DenUCuq4G04?si=JehH1Ng-bb8-VALG)
+- [Tailwind Tutorail for Beginners - Youtube](https://youtu.be/DenUCuq4G04?si=JehH1Ng-bb8-VALG) - Lukas
 - [Tailwind Tutorial - Article](https://tsh.io/blog/tailwind-css-tutorial/) The Software House
 - [Tailwind Tutorial - Article](https://www.codeinwp.com/blog/tailwind-css-tutorial/) codeinwp
 
