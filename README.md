@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./public/images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/advice-generator-app-solution-pixel-perfect-tailwind-5Bb1AR9WAT)
+- Live Site URL: [Live Site](https://santirockk.github.io/advice-generator/)
 
 ## My process
 
